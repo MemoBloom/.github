@@ -18,18 +18,6 @@ MemoBloom exists to make that chain smarter, safer, and more explainable:
 - **Traceable decisions**: every search, recommendation, selection, export, and editing suggestion should have evidence behind it.
 - **Creators remain in control**: AI should reduce repetitive work, while photographers, editors, and creative teams keep final judgment.
 
-## Project Ecosystem
-
-| Project | Focus | What it does |
-|---|---|---|
-| **MemoBrain** | Local-first AI workflow infrastructure for visual assets | Provides ingestion, analysis, indexing, retrieval, agent workflows, trace records, and delivery foundations for photo and video libraries. |
-| **MemoClip** | AI-assisted culling, editing, and delivery workspace | Helps creators find delivery-ready clips, selected photos, highlight moments, and story structures from large media collections. |
-| **MemoChat** | Natural-language agent for media libraries | Lets users search, explain, organize, propose, and review visual projects through a conversational assistant. |
-| **MemoRAG** | Multimodal retrieval and evidence system | Turns EXIF, captions, tags, visual descriptions, quality scores, faces, scenes, and similarity groups into searchable evidence. |
-| **MemoVelo** | On-device video multimodal understanding engine | Focuses on local video understanding, highlight detection, segment localization, visual semantics, and lightweight multimodal inference. |
-
-Together, these projects are becoming a complete **AI visual memory system** for independent creators, studio teams, event production, wedding delivery, commercial shoots, sports media, short-form video pipelines, and local multimodal applications.
-
 ## Use Cases
 
 ### Photographers and Retouching Teams
@@ -67,17 +55,6 @@ MemoBloom is built around local-first multimodal intelligence and traceable agen
 **Bloom** means the moment when hidden material becomes visible, organized, and ready to be told.
 
 In visual creation, the most valuable thing is rarely a single file. It is the emotion, relationship, action, and narrative value captured in a specific moment. MemoBloom helps those moments emerge from massive media collections and become searchable, usable, and deliverable work.
-
-## Current Focus
-
-MemoBloom is under active development. Current priorities include:
-
-- Improving MemoBrain's local asset management, MemoRAG retrieval, and MemoChat agent workflows.
-- Shaping MemoClip into a practical workspace for culling, video understanding, highlight discovery, and delivery preparation.
-- Exploring MemoVelo for on-device video understanding, highlight detection, and lightweight multimodal inference.
-- Building real-project evaluation sets, regression benchmarks, and explainable quality standards.
-
-We care more about reliability in real creative workflows than flashy AI demos.
 
 ## Join Us
 
